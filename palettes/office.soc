@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:color-table xmlns:office="http://openoffice.org/2000/office" xmlns:style="http://openoffice.org/2000/style" xmlns:text="http://openoffice.org/2000/text" xmlns:table="http://openoffice.org/2000/table" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="http://openoffice.org/2000/meta" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:svg="http://www.w3.org/2000/svg" xmlns:chart="http://openoffice.org/2000/chart" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="http://openoffice.org/2000/form" xmlns:script="http://openoffice.org/2000/script">
+
+  <!-- Base colors -->
+  <draw:color draw:name="White"  draw:color="#ffffff"/>
+  <draw:color draw:name="Grey"   draw:color="#808080"/>
+  <draw:color draw:name="Black"  draw:color="#000000"/>
+  <draw:color draw:name="Blue"   draw:color="#503c91"/>
+  <draw:color draw:name="Vert"   draw:color="#39a939"/>
+  <draw:color draw:name="Lime"   draw:color="#b3cc45"/>
+  <draw:color draw:name="Or"     draw:color="#d3bb47"/>
+  <draw:color draw:name="Orange" draw:color="#d39747"/>
+  <draw:color draw:name="Red"    draw:color="#d34747"/>
+  <draw:color draw:name="Purple" draw:color="#892e89"/>
+  <draw:color draw:name="Void 1" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 2" draw:color="#ffffff"/>
+
+  <!-- Variants -->
+  <draw:color draw:name="Grey 2.5%"      draw:color="#f9f9f9"/>
+  <draw:color draw:name="Grey 15%"       draw:color="#d9d9d9"/>
+  <draw:color draw:name="Grey 60%"       draw:color="#666666"/>
+  <draw:color draw:name="Light blue 1"   draw:color="#9788c8"/>
+  <draw:color draw:name="Light green 1"  draw:color="#8cdc8c"/>
+  <draw:color draw:name="Light lime 1"   draw:color="#e9f99f"/>
+  <draw:color draw:name="Light or 1"     draw:color="#ffefa3"/>
+  <draw:color draw:name="Light orange 1" draw:color="#ffd8a3"/>
+  <draw:color draw:name="Light red 1"    draw:color="#ffa3a3"/>
+  <draw:color draw:name="Light purple 1" draw:color="#c17bc1"/>
+  <draw:color draw:name="Void 3"         draw:color="#ffffff"/>
+  <draw:color draw:name="Void 4"         draw:color="#ffffff"/>
+  
+  <draw:color draw:name="Grey 5%"        draw:color="#f2f2f2"/>
+  <draw:color draw:name="Grey 20%"       draw:color="#cccccc"/>
+  <draw:color draw:name="Grey 70%"       draw:color="#4d4d4d"/>
+  <draw:color draw:name="Light blue 2"   draw:color="#6d5aa8"/>
+  <draw:color draw:name="Light green 2"  draw:color="#5cc45c"/>
+  <draw:color draw:name="Light lime 2"   draw:color="#d7ec6f"/>
+  <draw:color draw:name="Light or 2"     draw:color="#f5df73"/>
+  <draw:color draw:name="Light orange 2" draw:color="#f5bd73"/>
+  <draw:color draw:name="Light red 2"    draw:color="#f57373"/>
+  <draw:color draw:name="Light purple 2" draw:color="#9f4b9f"/>
+  <draw:color draw:name="Void 5"         draw:color="#ffffff"/>
+  <draw:color draw:name="Void 6"         draw:color="#ffffff"/>
+
+  <draw:color draw:name="Grey 7.5%"     draw:color="#ececec"/>
+  <draw:color draw:name="Grey 30%"      draw:color="#b3b3b3"/>
+  <draw:color draw:name="Grey 80%"      draw:color="#0f0f0f"/>
+  <draw:color draw:name="Dark blue 1"   draw:color="#3a267c"/>
+  <draw:color draw:name="Dark green 1"  draw:color="#1f911f"/>
+  <draw:color draw:name="Dark lime 1"   draw:color="#97af25"/>
+  <draw:color draw:name="Dark or 1"     draw:color="#b59c26"/>
+  <draw:color draw:name="Dark orange 1" draw:color="#b57826"/>
+  <draw:color draw:name="Dark red 1"    draw:color="#b52626"/>
+  <draw:color draw:name="Dark purple 1" draw:color="#751975"/>
+  <draw:color draw:name="Void 7"        draw:color="#ffffff"/>
+  <draw:color draw:name="Void 8"        draw:color="#ffffff"/>
+
+  <draw:color draw:name="Grey 10%"      draw:color="#e6e6e6"/>
+  <draw:color draw:name="Grey 40%"      draw:color="#999999"/>
+  <draw:color draw:name="Grey 90%"      draw:color="#1a1a1a"/>
+  <draw:color draw:name="Dark blue 2"   draw:color="#261363"/>
+  <draw:color draw:name="Dark green 2"  draw:color="#0a730a"/>
+  <draw:color draw:name="Dark lime 2"   draw:color="#748a0c"/>
+  <draw:color draw:name="Dark or 2"     draw:color="#8f790d"/>
+  <draw:color draw:name="Dark orange 2" draw:color="#8f570d"/>
+  <draw:color draw:name="Dark red 2"    draw:color="#8f0d0d"/>
+  <draw:color draw:name="Dark purple 2" draw:color="#5d085d"/>
+  <draw:color draw:name="Void 9"        draw:color="#ffffff"/>
+  <draw:color draw:name="Void 10"       draw:color="#ffffff"/>
+
+  <!-- Interval -->
+  <draw:color draw:name="Void int 1"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 2"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 3"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 4"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 5"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 6"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 7"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 8"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 9"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 10" draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 11" draw:color="#ffffff"/>
+  <draw:color draw:name="Void int 12" draw:color="#ffffff"/>
+  
+  <!-- Standard -->
+  <draw:color draw:name="Standard dark red"   draw:color="#c00000"/>
+  <draw:color draw:name="Standard red"        draw:color="#ff0000"/>
+  <draw:color draw:name="Standard orange"     draw:color="#ffc000"/>
+  <draw:color draw:name="Standard yellow"     draw:color="#ffff00"/>
+  <draw:color draw:name="Standard green"      draw:color="#92d050"/>
+  <draw:color draw:name="Standard dark green" draw:color="#00b050"/>
+  <draw:color draw:name="Standard light blue" draw:color="#00b0f0"/>
+  <draw:color draw:name="Standard blue"       draw:color="#0070c0"/>
+  <draw:color draw:name="Standard dark blue"  draw:color="#002060"/>
+  <draw:color draw:name="Standard purple"     draw:color="#7030a0"/>
+  <draw:color draw:name="Void 11"             draw:color="#ffffff"/>
+  <draw:color draw:name="Void 12"             draw:color="#ffffff"/>
+
+</office:color-table>
