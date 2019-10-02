@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<office:color-table xmlns:office="http://openoffice.org/2000/office" xmlns:style="http://openoffice.org/2000/style" xmlns:text="http://openoffice.org/2000/text" xmlns:table="http://openoffice.org/2000/table" xmlns:draw="http://openoffice.org/2000/drawing" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="http://openoffice.org/2000/meta" xmlns:number="http://openoffice.org/2000/datastyle" xmlns:svg="http://www.w3.org/2000/svg" xmlns:chart="http://openoffice.org/2000/chart" xmlns:dr3d="http://openoffice.org/2000/dr3d" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="http://openoffice.org/2000/form" xmlns:script="http://openoffice.org/2000/script">
+
+  <!-- Base colors -->
+  <draw:color draw:name="Void 1.1"  draw:color="#3b7f83"/>
+  <draw:color draw:name="Void 1.2"  draw:color="#3d4d89"/>
+  <draw:color draw:name="Void 1.3"  draw:color="#643b84"/>
+  <draw:color draw:name="Void 1.4"  draw:color="#9c466e"/>
+  <draw:color draw:name="Void 1.5"  draw:color="#85633c"/>
+  <draw:color draw:name="Void 1.6"  draw:color="#828a3e"/>
+  <draw:color draw:name="Void 1.7"  draw:color="#57873d"/>
+  <draw:color draw:name="Void 1.8"  draw:color="#3c8646"/>
+  <draw:color draw:name="Void 1.9"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void 1.10" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 1.11" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 1.12" draw:color="#ffffff"/>
+  
+  <draw:color draw:name="Void 2.1"  draw:color="#3d9196"/>
+  <draw:color draw:name="Void 2.2"  draw:color="#3f539c"/>
+  <draw:color draw:name="Void 2.3"  draw:color="#6f3d97"/>
+  <draw:color draw:name="Void 2.4"  draw:color="#b04878"/>
+  <draw:color draw:name="Void 2.5"  draw:color="#986e3e"/>
+  <draw:color draw:name="Void 2.6"  draw:color="#949d40"/>
+  <draw:color draw:name="Void 2.7"  draw:color="#5f9a3f"/>
+  <draw:color draw:name="Void 2.8"  draw:color="#3e994b"/>
+  <draw:color draw:name="Void 2.9"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void 2.10" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 2.11" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 2.12" draw:color="#ffffff"/>
+  
+  <draw:color draw:name="Void 3.1"  draw:color="#baa23f"/>
+  <draw:color draw:name="Void 3.2"  draw:color="#7bbf42"/>
+  <draw:color draw:name="Void 3.3"  draw:color="#3fbb66"/>
+  <draw:color draw:name="Void 3.4"  draw:color="#57a7c7"/>
+  <draw:color draw:name="Void 3.5"  draw:color="#6340bd"/>
+  <draw:color draw:name="Void 3.6"  draw:color="#ad43c0"/>
+  <draw:color draw:name="Void 3.7"  draw:color="#bf418c"/>
+  <draw:color draw:name="Void 3.8"  draw:color="#bd404e"/>
+  <draw:color draw:name="Void 3.9"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void 3.10" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 3.11" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 3.12" draw:color="#ffffff"/>
+
+  <draw:color draw:name="Void 4.1"  draw:color="#a7be3f"/>
+  <draw:color draw:name="Void 4.2"  draw:color="#4fc244"/>
+  <draw:color draw:name="Void 4.3"  draw:color="#3fc097"/>
+  <draw:color draw:name="Void 4.4"  draw:color="#5a7fc9"/>
+  <draw:color draw:name="Void 4.5"  draw:color="#9541c0"/>
+  <draw:color draw:name="Void 4.6"  draw:color="#c246a6"/>
+  <draw:color draw:name="Void 4.7"  draw:color="#c1435f"/>
+  <draw:color draw:name="Void 4.8"  draw:color="#c06241"/>
+  <draw:color draw:name="Void 4.9"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void 4.10" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 4.11" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 4.12" draw:color="#ffffff"/>
+  
+  <draw:color draw:name="Void 5.1"  draw:color="#7ac140"/>
+  <draw:color draw:name="Void 5.2"  draw:color="#46c46b"/>
+  <draw:color draw:name="Void 5.3"  draw:color="#41bac2"/>
+  <draw:color draw:name="Void 5.4"  draw:color="#605ccb"/>
+  <draw:color draw:name="Void 5.5"  draw:color="#c243be"/>
+  <draw:color draw:name="Void 5.6"  draw:color="#c44879"/>
+  <draw:color draw:name="Void 5.7"  draw:color="#c35845"/>
+  <draw:color draw:name="Void 5.8"  draw:color="#c39443"/>
+  <draw:color draw:name="Void 5.9"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void 5.10" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 5.11" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 5.12" draw:color="#ffffff"/>
+  
+  <draw:color draw:name="Void 6.1"  draw:color="#4bc442"/>
+  <draw:color draw:name="Void 6.2"  draw:color="#49c69c"/>
+  <draw:color draw:name="Void 6.3"  draw:color="#438cc4"/>
+  <draw:color draw:name="Void 6.4"  draw:color="#8c5ecc"/>
+  <draw:color draw:name="Void 6.5"  draw:color="#c44590"/>
+  <draw:color draw:name="Void 6.6"  draw:color="#c64a4d"/>
+  <draw:color draw:name="Void 6.7"  draw:color="#c58a47"/>
+  <draw:color draw:name="Void 6.8"  draw:color="#c3c545"/>
+  <draw:color draw:name="Void 6.9"  draw:color="#ffffff"/>
+  <draw:color draw:name="Void 6.10" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 6.11" draw:color="#ffffff"/>
+  <draw:color draw:name="Void 6.12" draw:color="#ffffff"/>
+</office:color-table>

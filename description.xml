@@ -14,7 +14,8 @@
 	    <name xlink:href="https://github.com/noelma">Mathieu NOËL</name>
     </publisher>
     <icon>
-        <default xlink:href="icons/logo-office.png"/>
+        <default xlink:href="Assets/logo.png"/>
+		<high-contrast xlink:href="Assets/logo.png"/>
     </icon>
 	<display-name>
 		<name lang="en">Office color</name>
