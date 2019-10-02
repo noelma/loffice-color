@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/github/license/noelma/loffice-color.svg)
 ![GitHub release](https://img.shields.io/github/release/noelma/loffice-color.svg)
 ![LibreOffice Version](https://img.shields.io/badge/libreoffice-%3E%3D5.4-brightreen)
-[![Download Loffice color](https://img.shields.io/badge/download-releases%20latest-blue.svg)](https://github.com/soosyze/soosyze/releases/latest/download/loffice-color.oxt "Download Loffice color")
+[![Download Loffice color](https://img.shields.io/badge/download-releases%20latest-blue.svg)](https://github.com/noelma/loffice-color/releases/latest/download/loffice-color.oxt "Download Loffice color")
 
 * :gb: [README in Anglais](README.md)
 * :fr: [README en Français](README_fr.md)
@@ -29,7 +29,7 @@ La palette **LOffice color** est un ensemble de 10 couleurs standards et leurs d
 
 # Installation
 
-* [Télécharger l'extension](https://github.com/soosyze/soosyze/releases/latest/download/loffice-color.oxt),
+* [Télécharger l'extension](https://github.com/noelma/loffice-color/releases/latest/download/loffice-color.oxt),
 * Ouvrer LibreOffice,
 * Cliquer sur `Outlis` > `Gestionnaire des extensions` dans la barre de menu (ou `Crtl + Alt + E`),
 * Puis cliquer sur le bouton `Ajouter` et aller chercher l'extension préalablement télécharger.
